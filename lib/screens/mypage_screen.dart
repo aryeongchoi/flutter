@@ -14,7 +14,7 @@ class MyPageScreen extends StatelessWidget {
     VoidCallback? onTap,
   }) {
     return ListTile(
-      contentPadding: const EdgeInsets.symmetric(horigiontal: 20),
+      contentPadding: const EdgeInsets.symmetric(horizontal: 20),
       leading: SizedBox(
         width: 24,
         height: 24,
